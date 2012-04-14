@@ -1,0 +1,10 @@
+[
+  {
+    "settings": [ "master" ],
+    "foo index": {
+      "verbs": ["get"],
+      "path": "/index",
+      "call": "htmlframe.index"
+    }
+  }
+]
